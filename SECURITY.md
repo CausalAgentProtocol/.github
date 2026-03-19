@@ -4,7 +4,7 @@
 
 Please do not report security vulnerabilities through public GitHub issues.
 
-Instead, please report them responsibly by emailing [INSERT SECURITY EMAIL ADDRESS]. We will acknowledge receipt of your vulnerability report within 48 hours and strive to send you regular updates about our progress. If you evaluate your report as a critical vulnerability, please mention this in the subject line.
+Instead, please report them responsibly by emailing security@abel.ai. We will acknowledge receipt of your vulnerability report within 48 hours and strive to send you regular updates about our progress. If you evaluate your report as a critical vulnerability, please mention this in the subject line.
 
 ## Where to Report Issues
 
