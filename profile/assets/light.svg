@@ -1,18 +1,25 @@
 <svg width="1600" height="240" viewBox="0 0 1600 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Causal Agent Protocol</title>
-  <desc id="desc">Minimal light title banner for the Causal Agent Protocol GitHub profile.</desc>
+  <desc id="desc">Light banner with the CAP C-shaped logo and the Causal Agent Protocol wordmark.</desc>
 
   <rect width="1600" height="240" fill="white"/>
 
+  <g transform="translate(262 46) scale(0.44)">
+    <path
+      d="M170 44H100L50 94V162L100 212H170L204 178L184 158L158 184H112L78 150V106L112 72H158L184 98L204 78L170 44Z"
+      fill="black"
+    />
+  </g>
+
   <text
-    x="800"
-    y="120"
+    x="412"
+    y="110"
     fill="black"
     font-family="Inter, Arial, sans-serif"
     font-size="92"
     font-weight="550"
     letter-spacing="-1.8"
-    text-anchor="middle"
+    text-anchor="start"
     dominant-baseline="middle"
   >
     Causal Agent Protocol

@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the **Causal Agent Protocol (CAP)**!
 
-This document provides high-level guidelines for contributing to any repository in the `causalagentprotocol` organization. We have a lightweight, maintainer-driven model for Phase 1.
+This document provides high-level guidelines for contributing to any repository in the `CausalAgentProtocol` organization. We have a lightweight, maintainer-driven model for Phase 1.
 
 For maintainer contact, developer-group coordination, or contribution questions that do not fit a repository issue, email `cap@abel.ai`.
 
@@ -10,14 +10,14 @@ For maintainer contact, developer-group coordination, or contribution questions 
 
 The CAP organization is divided into specialized repositories. Please direct your contributions to the appropriate repository:
 
-- **Protocol Specification**: To propose changes to the CAP normative specification, concepts, or website, open issues and PRs in the [`spec` repository](https://github.com/causalagentprotocol/spec).
-- **Python SDK**: To propose changes, bug fixes, or enhancements to the Python contracts, server framework, or client helpers, use the [`python-sdk` repository](https://github.com/causalagentprotocol/python-sdk).
-- **Example Implementation (abel-cap)**: To contribute to the reference implementation, use the [`abel-cap` repository](https://github.com/causalagentprotocol/abel-cap).
+- **Protocol Specification**: To propose changes to the CAP normative specification, concepts, or website, open issues and PRs in the [`cap` repository](https://github.com/CausalAgentProtocol/cap).
+- **Python SDK**: To propose changes, bug fixes, or enhancements to the Python contracts, server framework, or client helpers, use the [`python-sdk` repository](https://github.com/CausalAgentProtocol/python-sdk).
+- **Example Implementation (cap-reference)**: To contribute to the reference implementation, use the [`cap-reference` repository](https://github.com/CausalAgentProtocol/cap-reference).
 
 ## Proposing Protocol Changes
 
 To propose a change to the CAP protocol itself:
-1. Open an issue in the `spec` repository to discuss the proposed change.
+1. Open an issue in the `cap` repository to discuss the proposed change.
 2. Draft your proposal with rationale, detailing how it impacts existing graphs and agents.
 3. Wait for maintainer review and consensus before opening a Pull Request with spec changes.
 

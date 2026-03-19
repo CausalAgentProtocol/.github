@@ -1,5 +1,8 @@
 # Causal Agent Protocol
-![Causal Agent Protocol](./assets/light.svg)
+
+<p align="center">
+  <img src="./assets/light.svg" alt="Causal Agent Protocol" />
+</p>
 
 **CAP** is an open protocol that gives AI agents a structured way to perform **causal reasoning** — discovering variables, traversing cause-and-effect graphs, and answering "why" questions through a well-defined verb-based interface.
 
@@ -9,13 +12,13 @@ Most agent protocols focus on tool invocation or retrieval. CAP adds a **causal 
 
 ## Getting Started
 
-- Start with **[cap](https://github.com/causalagentprotocol/cap)** for the CAP overview, getting started guides, and normative specification
-- Use the **[Python SDK](https://github.com/causalagentprotocol/python-sdk)** to build or integrate a CAP-compatible agent
-- Explore **[abel-cap](https://github.com/causalagentprotocol/abel-cap)** for an Abel-backed example implementation
+- Start with **[cap](https://github.com/CausalAgentProtocol/cap)** for the CAP overview, getting started guides, and normative specification
+- Use the **[Python SDK](https://github.com/CausalAgentProtocol/python-sdk)** to build or integrate a CAP-compatible agent
+- Explore **[cap-reference](https://github.com/CausalAgentProtocol/cap-reference)** for a reference CAP server implementation
 
 ## Contributing
 
-We welcome contributions! Please read our [Contributing Guide](https://github.com/causalagentprotocol/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/causalagentprotocol/.github/blob/main/CODE_OF_CONDUCT.md) before getting started.
+We welcome contributions! Please read our [Contributing Guide](https://github.com/CausalAgentProtocol/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/CausalAgentProtocol/.github/blob/main/CODE_OF_CONDUCT.md) before getting started.
 
 ## License
 
