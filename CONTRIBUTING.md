@@ -4,6 +4,8 @@ Thank you for your interest in contributing to the **Causal Agent Protocol (CAP)
 
 This document provides high-level guidelines for contributing to any repository in the `causalagentprotocol` organization. We have a lightweight, maintainer-driven model for Phase 1.
 
+For maintainer contact, developer-group coordination, or contribution questions that do not fit a repository issue, email `cap@abel.ai`.
+
 ## Where to Contribute
 
 The CAP organization is divided into specialized repositories. Please direct your contributions to the appropriate repository:

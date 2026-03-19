@@ -17,3 +17,9 @@ If you've found a bug or have a feature request:
 ## Community Discussions
 
 For general questions, implementation help, or showing off what you've built, please use **GitHub Discussions** in the `spec` repository (or whatever central repo the community currently uses for discussions).
+
+## Direct Contact
+
+For maintainer contact, ecosystem coordination, or developer-group questions that do not fit a public issue or discussion, email `cap@abel.ai`.
+
+For security vulnerabilities, use `security@abel.ai` instead of the general support address.
