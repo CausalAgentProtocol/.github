@@ -12,7 +12,7 @@ The CAP organization is divided into specialized repositories. Please direct you
 
 - **Protocol Specification**: To propose changes to the CAP normative specification, concepts, or website, open issues and PRs in the [`cap` repository](https://github.com/CausalAgentProtocol/cap).
 - **Python SDK**: To propose changes, bug fixes, or enhancements to the Python contracts, server framework, or client helpers, use the [`python-sdk` repository](https://github.com/CausalAgentProtocol/python-sdk).
-- **Example Implementation (cap-reference)**: To contribute to the reference implementation, use the [`cap-reference` repository](https://github.com/CausalAgentProtocol/cap-reference).
+- **Official Example Server**: To contribute to the CAP organization's minimal example server, use the [`cap-example` repository](https://github.com/CausalAgentProtocol/cap-example).
 
 ## Proposing Protocol Changes
 

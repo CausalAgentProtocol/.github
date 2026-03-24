@@ -13,7 +13,7 @@ Welcome to the Causal Agent Protocol (CAP) community! If you need help, please u
 If you've found a bug or have a feature request:
 - For protocol-level discussions and CAP repo bugs, use the [CAP Issue Tracker](https://github.com/CausalAgentProtocol/cap/issues).
 - For SDK bugs or features, use the [Python SDK Issue Tracker](https://github.com/CausalAgentProtocol/python-sdk/issues).
-- For the reference implementation, use the [cap-reference Issue Tracker](https://github.com/CausalAgentProtocol/cap-reference/issues).
+- For the official example server, use the [cap-example Issue Tracker](https://github.com/CausalAgentProtocol/cap-example/issues).
 
 ## Community Discussions
 
