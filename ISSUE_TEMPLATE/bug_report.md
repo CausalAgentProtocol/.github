@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve the CAP spec, Python SDK, or example implementation
+about: Create a report to help us improve the CAP spec, Python SDK, or official example server
 title: "[BUG] "
 labels: bug
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Describe the bug
-A clear and concise description of what the bug is. Please specify if this is a bug in the specification, the Python SDK, or the `abel-cap` example implementation.
+A clear and concise description of what the bug is. Please specify if this is a bug in the specification, the Python SDK, or the `cap-example` official example server.
 
 ## To Reproduce
 Steps to reproduce the behavior:

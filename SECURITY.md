@@ -12,7 +12,7 @@ Depending on what part of the CAP ecosystem your report concerns, please ensure 
 
 1. **Protocol/Spec Issues**: Vulnerabilities or logic flaws within the CAP specification itself that could lead to insecure implementations.
 2. **SDK/Runtime Issues**: Vulnerabilities in the official `python-sdk` (e.g., insecure deserialization, improper error handling leaking data).
-3. **Example Implementation Issues**: Vulnerabilities within the `abel-cap` reference implementation wrapper.
+3. **Official Example Server Issues**: Vulnerabilities in the CAP organization's public `cap-example` repository or its published example server behavior.
 
 ## Supported Versions
 
