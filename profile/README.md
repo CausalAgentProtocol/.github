@@ -14,7 +14,7 @@ Most agent protocols focus on tool invocation or retrieval. CAP adds a **causal 
 
 - Start with **[cap](https://github.com/CausalAgentProtocol/cap)** for the CAP overview, getting started guides, and normative specification
 - Use the **[Python SDK](https://github.com/CausalAgentProtocol/python-sdk)** to build or integrate a CAP-compatible agent
-- Explore **[cap-reference](https://github.com/CausalAgentProtocol/cap-reference)** for a reference CAP server implementation
+- Explore **[cap-example](https://github.com/CausalAgentProtocol/cap-example)** for the official minimal CAP example server
 
 ## Contributing
 
