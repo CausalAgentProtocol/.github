@@ -10,6 +10,12 @@
 
 Most agent protocols focus on tool invocation or retrieval. CAP adds a **causal layer**: agents can explore causal graphs, compute interventions, and generate evidence-backed explanations — all through a transport-agnostic protocol that any runtime can implement.
 
+## Collaborating Institutions
+
+CAP is developed as an open protocol and welcomes collaboration across research and engineering communities.
+
+Collaborating institutions include CMU, UCSD, and UVA.
+
 ## Getting Started
 
 - Start with **[cap](https://github.com/CausalAgentProtocol/cap)** for the CAP overview, getting started guides, and normative specification
