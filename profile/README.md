@@ -26,7 +26,7 @@ The goal is to give implementers a more realistic public graph for testing capab
 
 CAP is developed as an open protocol and welcomes collaboration across research and engineering communities.
 
-Collaborating institutions include CMU, UCSD, and UVA.
+Collaborating institutions and organizations include CMU, UCSD, UVA, and Abel AI.
 
 ## Contributing
 
