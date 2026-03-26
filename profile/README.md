@@ -16,6 +16,12 @@ Most agent protocols focus on tool invocation or retrieval. CAP adds a **causal 
 - Use the **[Python SDK](https://github.com/CausalAgentProtocol/python-sdk)** to build or integrate a CAP-compatible agent
 - Explore **[cap-example](https://github.com/CausalAgentProtocol/cap-example)** for the official minimal CAP example server
 
+## What's Next
+
+We plan to open-source a larger `cap-example` follow-up built around a financial causal graph with roughly 500 nodes.
+
+The goal is to give implementers a more realistic public graph for testing capability discovery, graph traversal, intervention semantics, and semantic honesty without relying on proprietary data.
+
 ## Contributing
 
 We welcome contributions! Please read our [Contributing Guide](https://github.com/CausalAgentProtocol/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/CausalAgentProtocol/.github/blob/main/CODE_OF_CONDUCT.md) before getting started.
