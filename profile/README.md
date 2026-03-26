@@ -10,12 +10,6 @@
 
 Most agent protocols focus on tool invocation or retrieval. CAP adds a **causal layer**: agents can explore causal graphs, compute interventions, and generate evidence-backed explanations — all through a transport-agnostic protocol that any runtime can implement.
 
-## Collaborating Institutions
-
-CAP is developed as an open protocol and welcomes collaboration across research and engineering communities.
-
-Collaborating institutions include CMU, UCSD, and UVA.
-
 ## Getting Started
 
 - Start with **[cap](https://github.com/CausalAgentProtocol/cap)** for the CAP overview, getting started guides, and normative specification
@@ -27,6 +21,12 @@ Collaborating institutions include CMU, UCSD, and UVA.
 We plan to open-source a larger `cap-example` follow-up built around a financial causal graph with roughly 500 nodes.
 
 The goal is to give implementers a more realistic public graph for testing capability discovery, graph traversal, intervention semantics, and semantic honesty without relying on proprietary data.
+
+## Community
+
+CAP is developed as an open protocol and welcomes collaboration across research and engineering communities.
+
+Collaborating institutions include CMU, UCSD, and UVA.
 
 ## Contributing
 
